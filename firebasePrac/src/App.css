@@ -1,0 +1,48 @@
+.m-Center {
+  margin: 0 auto;
+  text-align: center;
+}
+.inputTag {
+  padding: 10px 10px;
+  outline: none;
+}
+
+.dataSendBtn {
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(86, 85, 85, 0.738);
+}
+
+.container {
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+  border-radius: 3px;
+  background: linear-gradient(45deg, #fff, #fff);
+  box-shadow: 10px -10px 36px #e7e6e6, -10px 10px 36px #fff;
+}
+
+.input-btn {
+  gap: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.alert{
+  background-color: rgb(54, 178, 54);
+  border-radius:12px;
+  color: black;
+  display: inline-flex;
+  padding: 10px 20px;
+}
+.d-none {
+  display: none;
+}
+.crossBtn{
+  background: none;
+  border: none;
+  color: white;
+}
